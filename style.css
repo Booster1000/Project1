@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    color: aquamarine;
+    font-size: 40px;
+    background-image: url("https://www.teamvvv.com/assets/js/ckeditor/kcfinder/upload/images/iokdiz.gif");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Comic Sans Ms";
+}
+
+#p1{
+    color: red;
+    }
+    #p2{
+        color: white;
+        }
+
+        canvas{
+            border: 15px  rgb(25, 0, 255) solid;
+            border-radius: 20px;
+        
+        }
